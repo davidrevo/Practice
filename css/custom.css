@@ -1,0 +1,38 @@
+.personal-detail {
+  margin-bottom: 5px;
+}
+.personal-detail a:hover {
+  opacity: 0.7;
+}
+.hero-img {
+  margin: 0 auto;
+}
+.motto {
+  font-style: italic;
+}
+.job-title {
+  color: #cf2a23;
+  font-size: 1.5em;
+}
+.personal-col {
+  color: #fff;
+  height: 67px;
+  line-height: 67px;
+  font-size: 2em;
+}
+.education {
+  background: #3e8ddd;
+}
+.work {
+  background: #EA5800;
+}
+.skill {
+  background: #6ABF4A;
+}
+.contact {
+  margin-top: 30px;
+}
+.qrcode {
+  width: 150px;
+  height: auto;
+}
